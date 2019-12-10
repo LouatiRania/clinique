@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/aaa.jpg</file>
+        <file>images/bbb.jpg</file>
+        <file>images/cccc.jpg</file>
+        <file>images/fond.jpg</file>
+        <file>son/0267.wav</file>
+        <file>son/1100.mp3</file>
+        <file>son/1100.wav</file>
+    </qresource>
+</RCC>
